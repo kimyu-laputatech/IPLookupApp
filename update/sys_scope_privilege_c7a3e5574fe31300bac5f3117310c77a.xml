@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="IPLookup">c2d8995f4fa31300bac5f3117310c708</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 07:40:30</sys_created_on>
+        <sys_id>c7a3e5574fe31300bac5f3117310c77a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.update</sys_name>
+        <sys_package display_value="IPLookup" source="x_260021_iplookup">c2d8995f4fa31300bac5f3117310c708</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">c2d8995f4fa31300bac5f3117310c708</sys_scope>
+        <sys_update_name>sys_scope_privilege_c7a3e5574fe31300bac5f3117310c77a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 07:40:30</sys_updated_on>
+        <target_name>GlideRecord.update</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
